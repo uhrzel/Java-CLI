@@ -1,0 +1,4 @@
+123456789,C,John,Doe,123 Main St,Anytown,12345,3,Valid
+987654321,LR,Jane,Smith,456 Oak St,Othercity,67890,0,Valid
+987654321,LR,Jane,Smith,456 Oak St,Othercity,67890,4,Valid
+987654321,LR,Jane,Smith,456 Oak St,Othercity,67890,6,Suspended
